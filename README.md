@@ -1,5 +1,10 @@
 # My_Pulchowk_Website
 
+HTML, CSS, JAVASCRIPT
+
+# Introduction
+Website for the Pulchowk Campus
+
 The screenshots for the website is shown below
 
 ![This is the landing](https://github.com/bivek-shrestha/My_Pulchowk_Website/blob/main/screenshots/Screenshot%202024-02-12%20141709.png?raw=true)
